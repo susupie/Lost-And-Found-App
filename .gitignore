@@ -1,0 +1,6 @@
+# Ignore the environment file
+.env
+
+# Ignore compiled files and build folders
+/bin/
+/target/
